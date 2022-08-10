@@ -1,0 +1,13 @@
+.sierra-ave {
+  background-image: url("/sierra-ave-2.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+@media (min-width: 768px) {
+  .special-border-right {
+    border-right: 2px solid white;
+    line-height: 1;
+    text-align: right;
+  }
+}

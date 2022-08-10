@@ -1,0 +1,254 @@
+@font-face {
+  font-family: "SofiaPro-Regular";
+  src: url("../fonts/SofiaProRegular/font.woff2") format("woff2"),
+    url("../fonts/SofiaProRegular/font.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "CommutersSans";
+  src: url("../fonts/CommutersSans/CommutersSans-Regular.woff2") format("woff2"),
+    url("../fonts/CommutersSans/CommutersSans-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "CommutersSans";
+  src: url("../fonts/CommutersSans/CommutersSans-Bold.woff2") format("woff2"),
+    url("../fonts/CommutersSans/CommutersSans-Bold.woff") format("woff");
+  font-weight: bold;
+  font-display: swap;
+}
+
+:root {
+  --blue: #1a13b8;
+  --grey: #f7f7f7;
+  --tablet: 992px;
+  --mobile: 768px;
+}
+
+html {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  /* -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; */
+  word-wrap: break-word;
+  font-kerning: normal;
+  -moz-font-feature-settings: "kern", "liga", "clig", "calt";
+  -ms-font-feature-settings: "kern", "liga", "clig", "calt";
+  -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
+  font-feature-settings: "kern", "liga", "clig", "calt";
+  font-family: "SofiaPro-Regular";
+  font-size: 16px;
+  line-height: 23px;
+  /* background-color: var(--blue); */
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+main,
+menu,
+nav,
+section,
+summary {
+  display: block;
+}
+audio,
+canvas,
+progress,
+video {
+  display: inline-block;
+}
+audio:not([controls]) {
+  display: none;
+  height: 0;
+}
+progress {
+  vertical-align: baseline;
+}
+[hidden],
+template {
+  display: none;
+}
+a {
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+  transition: all 0.3s ease;
+}
+a:active,
+a:hover {
+  outline-width: 0;
+}
+
+hr {
+  background: #000;
+  height: 1px;
+  border: 0;
+}
+
+.wrapper {
+  padding-left: 50px;
+  padding-right: 50px;
+  width: 1200px;
+  max-width: calc(100% - 100px);
+  margin: auto;
+}
+
+.relative {
+  position: relative;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 2;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.banner {
+  position: absolute;
+  padding-top: 53px;
+  width: 100%;
+}
+
+.font-com {
+  font-family: "CommutersSans";
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.font-20 {
+  font-size: 20px;
+}
+
+.color-white {
+  color: #fff;
+}
+
+.color-blue {
+  color: var(--blue);
+}
+
+.caps {
+  text-transform: uppercase;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.border-color-white {
+  border-color: white;
+}
+
+figure {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+figure .gatsby-image-wrapper {
+  width: 100%;
+  height: 100%;
+}
+
+@media (max-width: 991px) {
+  .hide-lrg {
+    display: none;
+  }
+}
+
+@media (max-width: 767px) {
+  .wrapper {
+    padding-left: 20px;
+    padding-right: 20px;
+    max-width: calc(100% - 40px);
+  }
+
+  .banner {
+    padding-top: 30px;
+  }
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.btn {
+  display: block;
+  padding: 8px 18px;
+  text-transform: uppercase;
+  color: #fff;
+  border: 2px solid #fff;
+}
+
+.btn.btn-blue {
+  background-color: transparent;
+  border: 2px solid var(--blue);
+  color: var(--blue);
+}
+
+.btn.btn-blue:hover {
+  opacity: 0.7;
+}
+
+input.btn {
+  cursor: pointer;
+}
+
+.mb-10 {
+  margin-bottom: 10px;
+}
+.mb-20 {
+  margin-bottom: 20px;
+}
+.mb-50 {
+  margin-bottom: 50px;
+}
+.mb-100 {
+  margin-bottom: 100px;
+}
+
+.my-10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.my-20 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.my-30 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.my-40 {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.my-50 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
