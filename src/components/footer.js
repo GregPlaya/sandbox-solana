@@ -39,7 +39,7 @@ const Footer = () => (
             >
               329 &amp; 343 South Highway 101
               <br />
-              Solana Beach, CA 92075
+              Solana Beach, CA 92075.
             </a>
           </div>
           <div className="col-12 col-md-6 office-col">
