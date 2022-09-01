@@ -55,10 +55,10 @@ const IndexPage = () => {
                   Office & Retail Leasing
                 </a>
               </div>
-			  	<div className="navbar-right">
+		<div className="navbar-right">
                 <a
                   href="https://www.sandboxsolana.com/residential/"
-                  target="_self"
+                  target="_blank"
                   rel="noreferrer"
                 >
                   Residential Leasing
