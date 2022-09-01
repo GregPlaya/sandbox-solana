@@ -109,6 +109,28 @@ main > section {
   border-color: transparent;
 }
 
+/*home nav */
+.navbar-main {
+	max-width: 900px;
+	width: 100%;
+}
+.navbar-main a {
+  color: white;
+  font-family: "CommutersSans";
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.navbar-left {
+	float:left;
+	padding: 20px 15px 20px 15px;
+	width: 50%;
+}
+.navbar-right {
+	float:right;
+	padding: 20px 15px 20px 15px;
+	width: 50%;
+}
+
 /*animated scroll arrow animation*/
 @-webkit-keyframes fade_move_down {
   0% {
