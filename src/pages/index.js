@@ -45,26 +45,24 @@ const IndexPage = () => {
           className="sandbox relative d-flex align-items-center justify-content-center"
           style={{ minHeight: "50vh" }}
         >
-	 <div className="navbar-main">
-	            <div className="navbar-left">
-                <a
+<table width="100%" border="0" className="navbar-main">
+  <tr>
+    <td style={{ text-align:left }}><a
                   href="https://www.dropbox.com/s/g6mshopn8iaix1k/Sandbox-Leasing-Opportunity-HighRes.pdf?dl=0"
                   target="_blank"
                   rel="noreferrer"
                 >
                   Office & Retail Leasing
-                </a>
-              </div>
-			  	<div className="navbar-right">
-                <a
+                </a></td>
+    <td style={{ text-align:right }}>               <a
                   href="https://www.sandboxsolana.com/residential/"
                   target="_self"
                   rel="noreferrer"
                 >
                   Residential Leasing
-                </a>
-              </div>
-	  </div>
+                </a></td>
+  </tr>
+</table>
 		
           <div style={{ padding: "30px" }}>
             <img
