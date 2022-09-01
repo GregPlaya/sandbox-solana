@@ -256,4 +256,9 @@ main > section {
   .home-logo {
     width: 240px;
   }
+  .navbar-left, .navbar-right {
+    text-align: center;
+    float: none;
+    width: auto;
+}
 }
