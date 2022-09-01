@@ -41,6 +41,26 @@ const IndexPage = () => {
     <Layout>
       <Seo title="Sandbox Solana - Home" />
       <section className="full">
+          <div className="navbar-main">
+	            <div className="navbar-left">
+                <a
+                  href="https://www.dropbox.com/s/g6mshopn8iaix1k/Sandbox-Leasing-Opportunity-HighRes.pdf?dl=0"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Office & Retail Leasing
+                </a>
+              </div>
+			  	<div className="navbar-right">
+                <a
+                  href="https://www.sandboxsolana.com/residential/"
+                  target="_self"
+                  rel="noreferrer"
+                >
+                  Residential Leasing
+                </a>
+              </div>
+	  </div>
         <div
           className="sandbox relative d-flex align-items-center justify-content-center"
           style={{ minHeight: "50vh" }}
