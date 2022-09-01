@@ -260,5 +260,6 @@ main > section {
     text-align: center;
     float: none;
     width: auto;
+    padding: 20px 5px 20px 5px;
 }
 }
