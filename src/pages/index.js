@@ -41,7 +41,11 @@ const IndexPage = () => {
     <Layout>
       <Seo title="Sandbox Solana - Home" />
       <section className="full">
-          <div className="navbar-main">
+        <div
+          className="sandbox relative d-flex align-items-center justify-content-center"
+          style={{ minHeight: "50vh" }}
+        >
+	 <div className="navbar-main">
 	            <div className="navbar-left">
                 <a
                   href="https://www.dropbox.com/s/g6mshopn8iaix1k/Sandbox-Leasing-Opportunity-HighRes.pdf?dl=0"
@@ -61,10 +65,7 @@ const IndexPage = () => {
                 </a>
               </div>
 	  </div>
-        <div
-          className="sandbox relative d-flex align-items-center justify-content-center"
-          style={{ minHeight: "50vh" }}
-        >
+		
           <div style={{ padding: "30px" }}>
             <img
               className="img-fluid home-logo logo"
