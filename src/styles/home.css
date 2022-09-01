@@ -111,8 +111,10 @@ main > section {
 
 /*home nav */
 .navbar-main {
-	max-width: 900px;
+	max-width: 1100px;
 	width: 100%;
+	position: fixed;
+    top: 10px;
 }
 .navbar-main a {
   color: white;
@@ -120,15 +122,18 @@ main > section {
   font-size: 20px;
   text-transform: uppercase;
 }
+.navbar-main a:hover {
+  color: #ebebed;
+}
 .navbar-left {
 	float:left;
 	padding: 20px 15px 20px 15px;
-	width: 50%;
+	width: 45%;
 }
 .navbar-right {
 	float:right;
 	padding: 20px 15px 20px 15px;
-	width: 50%;
+	width: 45%;
 }
 
 /*animated scroll arrow animation*/
