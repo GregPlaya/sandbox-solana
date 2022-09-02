@@ -115,7 +115,7 @@ const IndexPage = () => {
                     target="_blank"
                     rel="noreferrer"
                   >
-                    SIGN UP FOR NOTIFICATIONS
+                    LEARN MORE
                   </Link>
                 </div>
               </div>
