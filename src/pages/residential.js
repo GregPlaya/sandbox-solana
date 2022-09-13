@@ -53,13 +53,6 @@ const ResidentialPage = () => {
               from the beach, Sandbox offers residents modern, integrated living
               spaces in a local neighborhood atmosphere.
             </div>
-                <a
-                  href="https://www.sandboxsolana.com/residential2/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  test
-                </a>
             <div className="short-desc caps font-com font-bold">
               Newly constructed modern living in highly desirable coastal
               community
