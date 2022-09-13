@@ -84,6 +84,22 @@ const ResidentialPage = () => {
           </div>
         </div>
       </section>
+      <section className="">
+        <div className="row d-md-flex">
+           <div className="col-12 col-md-3 col-lg-3">
+            <StaticImage src="sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="" />
+          </div>
+           <div className="col-12 col-md-3 col-lg-3">
+            <StaticImage src="sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="" />
+          </div>
+         <div className="col-12 col-md-3 col-lg-3">
+            <StaticImage src="sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="" />
+          </div>
+          <div className="col-12 col-md-3 col-lg-3">
+            <StaticImage src="sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="" />
+          </div>
+       </div>
+      </section>
     </Layout>
   )
 }
