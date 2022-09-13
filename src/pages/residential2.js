@@ -87,16 +87,16 @@ const ResidentialPage = () => {
       <section className="full">
         <div className="row bg-orange" style={{ minHeight: "50vh" }}>
            <div className="col-12 col-md-3 col-lg-3">
-            <StaticImage src="sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="" />
+            <StaticImage src="../images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="" />
           </div>
            <div className="col-12 col-md-3 col-lg-3">
-            <StaticImage src="sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="" />
+            <StaticImage src="../images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="" />
           </div>
          <div className="col-12 col-md-3 col-lg-3">
-            <StaticImage src="sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="" />
+            <StaticImage src="../images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="" />
           </div>
           <div className="col-12 col-md-3 col-lg-3">
-            <StaticImage src="sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="" />
+            <StaticImage src="../images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="" />
           </div>
        </div>
       </section>
