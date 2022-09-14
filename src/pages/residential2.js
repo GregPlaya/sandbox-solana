@@ -88,7 +88,7 @@ const ResidentialPage = () => {
         <div className="row bg-orange color-white align-center d-flex align-items-center justify-content-center px-2" style={{ minHeight: "50vh" }}>
            <div className="col-12 col-md-3 col-lg-3">
              <StaticImage src="../images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="" className="px-3"/>
-             <div className="short-desc caps font-com font-bold mt-40 mb-30">
+             <div className="short-desc caps font-com font-bold mt-50">
               Unit Type A
              </div>
              <hr className="bg-white my-20 mx-5" />
