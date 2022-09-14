@@ -86,7 +86,6 @@ const ResidentialPage = () => {
       </section>
       <section className="full">
         <div className="row bg-orange" style={{ minHeight: "50vh" }}>
-          <h1>Heading</h1>
            <div className="col-12 col-md-3 col-lg-3">
             <StaticImage src="../images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="" />
             <div className="short-desc caps font-com font-bold">
