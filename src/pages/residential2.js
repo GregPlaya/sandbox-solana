@@ -88,11 +88,11 @@ const ResidentialPage = () => {
         <div className="row bg-orange color-white align-center d-flex align-items-center justify-content-center" style={{ minHeight: "50vh" }}>
            <div className="col-12 col-md-3 col-lg-3">
             <StaticImage src="../images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="" />
-             <div className="short-desc caps font-com font-bold mt-100">
+             <div className="short-desc caps font-com font-bold pt-100">
               Unit Type A
              </div>
              <hr className="bg-white my-40 mx-5" />
-             <div className="short-desc caps font-com font-bold">
+             <div className="short-desc font-com">
               7 - 1 bedroom units
               <span className="d-none d-sm-inline">
                 &nbsp;&nbsp;|&nbsp;&nbsp;
