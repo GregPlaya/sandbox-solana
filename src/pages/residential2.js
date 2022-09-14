@@ -89,6 +89,17 @@ const ResidentialPage = () => {
           <h1>Heading</h1>
            <div className="col-12 col-md-3 col-lg-3">
             <StaticImage src="../images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="" />
+            <div className="short-desc caps font-com font-bold">
+              Unit Type A
+            </div>
+            <hr className="bg-white my-40" />
+            <div className="short-desc caps font-com font-bold">
+              7 - 1 bedroom units
+              <span className="d-none d-sm-inline">
+                &nbsp;&nbsp;|&nbsp;&nbsp;
+              </span>
+              <br className="d-sm-none" />
+              2 Bed + 2 Bath <br>1,220 sf
           </div>
            <div className="col-12 col-md-3 col-lg-3">
             <StaticImage src="../images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="" />
