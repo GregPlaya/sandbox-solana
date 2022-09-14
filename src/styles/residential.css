@@ -3,7 +3,9 @@
   background-size: cover;
   background-position: center;
 }
-
+.res-grid {
+  max-width: 99.5%;
+}
 @media (min-width: 768px) {
   .special-border-right {
     border-right: 2px solid white;
