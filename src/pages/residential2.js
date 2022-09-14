@@ -91,7 +91,7 @@ const ResidentialPage = () => {
              <div className="short-desc caps font-com font-bold my-40">
               Unit Type A
              </div>
-             <hr className="bg-white my-30 mx-5" />
+             <hr className="bg-white my-20 mx-5" />
              <div className="short-desc font-com font-20">
               7 - 1 bedroom units
               <span className="d-none d-sm-inline">
