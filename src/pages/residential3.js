@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@GregPlaya 
-GregPlaya
-/
-sandbox-solana
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-sandbox-solana/src/pages/residential2.js /
-@GregPlaya
-GregPlaya Update residential2.js
-Latest commit ff7df53 9 days ago
- History
- 1 contributor
-155 lines (151 sloc)  5.71 KB
-
 import * as React from "react"
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
@@ -182,18 +153,3 @@ const ResidentialPage = () => {
 }
 
 export default ResidentialPage
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-sandbox-solana/residential2.js at main · GregPlaya/sandbox-solanasandbox-solana/residential2.js at main · GregPlaya/sandbox-solana
