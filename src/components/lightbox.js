@@ -17,7 +17,7 @@ const LightBox = ({ children, src, alt, Wrapper = 'div', zIndex = 100 }) => {
 					left: '0',
 					height: '100vh',
 					width: '100vw',
-					backgroundColor: 'rgba(0,0,0,0.7)',
+					backgroundColor: 'rgba(0,0,0,0.9)',
 					cursor: 'pointer',
 					zIndex
 				}}>
