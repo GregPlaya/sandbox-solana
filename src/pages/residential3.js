@@ -109,7 +109,7 @@ const ResidentialPage = () => {
     <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-B.jpg" alt="Unit Type B" />      
               </LightBox> 
              <div className="short-desc caps font-com font-bold mt-50">
-              Unit Type A
+              Unit Type B
              </div>
              <hr className="bg-white my-20 mx-5" />
              <div className="short-desc font-com font-20">
