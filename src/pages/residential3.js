@@ -104,8 +104,10 @@ const ResidentialPage = () => {
               2 Bed + 2 Bath 1,220 sf
               </div>
           </div>
-<div className="col-12 col-md-3 col-lg-3">
-             <StaticImage src="../images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt=""/>
+           <div className="col-12 col-md-3 col-lg-3 res-grid-box">
+                <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-B.jpg" alt="Unit Type B">
+    <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-B.jpg" alt="Unit Type B" />      
+              </LightBox> 
              <div className="short-desc caps font-com font-bold mt-50">
               Unit Type A
              </div>
@@ -116,7 +118,7 @@ const ResidentialPage = () => {
                 &nbsp;&nbsp;|&nbsp;&nbsp;
               </span>
               <br className="d-sm-none" />
-              2 Bed + 2 Bath 1,220 sf
+              2 Bed + 2 Bath 1,085 sf
               </div>
           </div>
 <div className="col-12 col-md-3 col-lg-3">
