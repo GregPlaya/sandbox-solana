@@ -24,8 +24,8 @@ const LightBox = ({ children, src, alt, Wrapper = 'div', zIndex = 100 }) => {
 					<img src={src}
 						alt={alt}
 						style={{
-							height: 'auto',
-							width: '100%'
+							height: '100%',
+							width: 'auto'
 						}}
 					/>
 				</div>
