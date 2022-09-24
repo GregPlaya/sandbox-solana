@@ -84,6 +84,7 @@ const ResidentialPage = () => {
             </div>
           </div>
         </div>
+<img src="/GregPlaya/sandbox-solana/blob/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg?raw=true" alt="sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg">test
       </section>
       <section className="full">
         <div className="row bg-orange color-white align-center d-flex align-items-center justify-content-center px-2 res-grid" style={{ minHeight: "50vh" }}>
