@@ -88,11 +88,11 @@ const ResidentialPage = () => {
       <section className="full">
         <div className="row bg-orange color-white align-center d-flex align-items-center justify-content-center px-2 res-grid" style={{ minHeight: "50vh" }}>
            <div className="col-12 col-md-3 col-lg-3">
-             <div class="gatsby-image-wrapper gatsby-image-wrapper-constrained"><div style="max-width:1000px;display:block">
+             <div className="gatsby-image-wrapper gatsby-image-wrapper-constrained">
                 <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="React Logo">
     <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="Unit Type A" />      
               </LightBox> 
-</div></div>
+            </div>
              <div className="short-desc caps font-com font-bold mt-50">
               Unit Type A
              </div>
