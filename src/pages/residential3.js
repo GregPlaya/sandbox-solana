@@ -91,7 +91,6 @@ const ResidentialPage = () => {
           <LightBox src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="React Logo">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="100px" height="100px" alt="React Logo" />
       </LightBox>  
-<img src="https://github.com/GregPlaya/sandbox-solana/blob/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg">
              <div className="short-desc caps font-com font-bold mt-50">
               Unit Type A
              </div>
