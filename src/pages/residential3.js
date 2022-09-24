@@ -4,6 +4,7 @@ import { StaticImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import LightBox from "../components/lightbox"
 
 import "../styles/residential.css"
 import SubscribeFormRes from "../components/mailchimp-form-res"
@@ -87,7 +88,9 @@ const ResidentialPage = () => {
       <section className="full">
         <div className="row bg-orange color-white align-center d-flex align-items-center justify-content-center px-2 res-grid" style={{ minHeight: "50vh" }}>
            <div className="col-12 col-md-3 col-lg-3">
-             <StaticImage src="../images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt=""/>
+             <LightBox src="https://build-da7d1d0d-ea1b-4f73-890c-e950a7bbad9b.gtsb.io/static/6ad2b0edf5ac689b44c81683ee732cd1/5a7c3/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="Unit Type A">
+ <img src="https://build-da7d1d0d-ea1b-4f73-890c-e950a7bbad9b.gtsb.io/static/6ad2b0edf5ac689b44c81683ee732cd1/5a7c3/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="Unit Type A">
+      </LightBox>           
              <div className="short-desc caps font-com font-bold mt-50">
               Unit Type A
              </div>
