@@ -1,6 +1,8 @@
-import React from 'react';
+import React, {useState} from 'react';
 
 const LightBox = ({children, src, alt, Wrapper = 'div'}) => {
+	const [ isOpen, setIsOpen ] = useState(false);
+	
 	return (
 		<Wrapper>
 			
