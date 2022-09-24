@@ -84,7 +84,7 @@ const ResidentialPage = () => {
             </div>
           </div>
         </div>
-<img src="/GregPlaya/sandbox-solana/blob/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg?raw=true" alt="sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg">test
+<img src="https://github.com/GregPlaya/sandbox-solana/blob/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg?raw=true" alt="sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg">test
       </section>
       <section className="full">
         <div className="row bg-orange color-white align-center d-flex align-items-center justify-content-center px-2 res-grid" style={{ minHeight: "50vh" }}>
@@ -92,7 +92,7 @@ const ResidentialPage = () => {
           <LightBox src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="React Logo">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="100px" height="100px" alt="React Logo" />
       </LightBox>  
-<img src="/GregPlaya/sandbox-solana/blob/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg?raw=true" alt="sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg">
+<img src="https://github.com/GregPlaya/sandbox-solana/blob/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg?raw=true" alt="sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg">
              <div className="short-desc caps font-com font-bold mt-50">
               Unit Type A
              </div>
