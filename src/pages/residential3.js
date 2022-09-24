@@ -35,17 +35,13 @@ const LightBox = ({ children, src, alt, Wrapper = 'div', zIndex = 100 }) => {
 };
 
   return (
-    <Layout>
-      <Seo title="Sandbox Solana - Home" />
-      <section className="full">
-          <div>
+     <div>
       <h1>Lightbox App</h1>
     <h2>My Gallery</h2>
       <LightBox src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="React Logo">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="100px" height="100px" alt="React Logo" />
       </LightBox>
-          </div>      
-    </Layout>
+    </div>      
   )
 }
 
