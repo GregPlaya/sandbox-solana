@@ -53,4 +53,8 @@ const LightboxApp = function () {
 	</div>);
 };
 
+/* Step 3: Export your component so it
+can be used by other parts of your app. */
+export default LightBox
+export default LightboxApp
 ReactDOM.render(<LightboxApp />, document.querySelector("#app"))
