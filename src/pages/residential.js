@@ -117,7 +117,7 @@ const ResidentialPage = () => {
           </div>         
         </div>
       </section>
-      <section className="full">
+      <section>
         <div className="row bg-orange color-white align-center d-flex align-items-center justify-content-center px-2 res-grid" style={{ minHeight: "50vh" }}>
            <div className="col-12 col-md-3 col-lg-3 res-grid-box">
                 <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="Unit Type A">
@@ -170,51 +170,51 @@ const ResidentialPage = () => {
 </div>
         <div className="row bg-orange color-white align-center d-flex align-items-center justify-content-center px-2 res-grid" style={{ minHeight: "50vh" }}>
            <div className="col-12 col-md-3 col-lg-3 res-grid-box">
-                <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="Unit Type A">
-    <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="Unit Type A" />      
+                <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-E.jpg" alt="Unit Type E">
+    <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-E.jpg" alt="Unit Type E" />      
               </LightBox> 
 <div className="short-desc caps font-com font-bold mt-50">
-              Unit Type A
+              Unit Type E
              </div>
              <hr className="bg-white my-20 mx-5" />
              <div className="short-desc font-com font-20"> 
-              2 Bed + 2 Bath <br/>1,220 sf
+              2 Bed + 2 Bath <br/>1,087 sf
               </div>
           </div>
            <div className="col-12 col-md-3 col-lg-3 res-grid-box">
-                <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-B.jpg" alt="Unit Type B">
-    <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-B.jpg" alt="Unit Type B" />      
+                <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-F.jpg" alt="Unit Type F">
+    <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-F.jpg" alt="Unit Type F" />      
               </LightBox> 
 <div className="short-desc caps font-com font-bold mt-50">
-              Unit Type B
+              Unit Type F
              </div>
              <hr className="bg-white my-20 mx-5" />
              <div className="short-desc font-com font-20"> 
-              2 Bed + 2 Bath <br/>1,085 sf
+              2 Bed + 2 Bath <br/>857 sf
               </div>
           </div>
           <div className="col-12 col-md-3 col-lg-3 res-grid-box">
-                <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-C.jpg" alt="Unit Type C">
-    <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-C.jpg" alt="Unit Type C" />      
+                <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-G.jpg" alt="Unit Type G">
+    <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-G.jpg" alt="Unit Type G" />      
               </LightBox> 
 <div className="short-desc caps font-com font-bold mt-50">
-              Unit Type C
+              Unit Type G
              </div>
              <hr className="bg-white my-20 mx-5" />
              <div className="short-desc font-com font-20"> 
-              2 Bed + 2 Bath <br/>1,193 sf
+              2 Bed + 2 Bath <br/>1,096 sf
               </div>
           </div>
           <div className="col-12 col-md-3 col-lg-3 res-grid-box">
-              <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-D.jpg" alt="Unit Type D">
-    <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-D.jpg" alt="Unit Type D" />      
+              <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-H.jpg" alt="Unit Type H">
+    <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-H.jpg" alt="Unit Type H" />      
               </LightBox> 
              <div className="short-desc caps font-com font-bold mt-50">
-              Unit Type D
+              Unit Type H
              </div>
              <hr className="bg-white my-20 mx-5" />
              <div className="short-desc font-com font-20"> 
-              2 Bed + 2 Bath <br/>1,127 sf
+              2 Bed + 2 Bath <br/>860 sf
               </div>
           </div>
 </div>
