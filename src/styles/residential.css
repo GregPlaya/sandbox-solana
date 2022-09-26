@@ -27,6 +27,8 @@
     line-height: 1;
     text-align: right;
   }
+}
+@media (max-width: 768px) {
   .res-property-list {
     display: block;
     font-size: 18px;
