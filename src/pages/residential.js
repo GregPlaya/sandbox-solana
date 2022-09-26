@@ -75,7 +75,7 @@ const ResidentialPage = () => {
             </div>
           <div className="col-12 col-md-8 d-flex align-items-center justify-content-center">
             <div className="desc-box">
-              <div className="short-desc font-com align-left">
+              <div className="short-desc font-com align-left res-property-list">
 <ul>
   <li>Quartz Countertops</li>
   <li>European-style Cabinets w/Soft Close</li>
