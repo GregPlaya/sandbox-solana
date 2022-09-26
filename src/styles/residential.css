@@ -25,6 +25,11 @@
 .property-desc-box {
   padding: 0px 0px 60px 0px;
 }
+.res-property-decoration {
+  background-image: url("/sandbox-solana-beach-residential-living-leasing-property-features-woman-floating-in-ocean-on-a-tube.jpg");
+  background-size: cover;
+  background-position: center;
+}
 @media (min-width: 768px) {
   .special-border-right {
     border-right: 2px solid white;
@@ -39,5 +44,8 @@
     line-height: 1.25;
     padding: 10px 20px 10px 10px;
     width: 90%;
+}
+  .res-property-decoration {
+  display: none;
 }
 }
