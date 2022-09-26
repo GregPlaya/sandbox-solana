@@ -113,7 +113,7 @@ const ResidentialPage = () => {
             </div>
           </div>
           <div className="col-12 col-md-4">
-            <StaticImage src="../images/yellow-chair-1.png" alt="" />
+            <StaticImage src="../images/sandbox-solana-beach-residential-living-leasing-property-features-woman-floating-in-ocean-on-a-tube.jpg" alt="" />
           </div>         
         </div>
       </section>
