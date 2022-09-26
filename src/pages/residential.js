@@ -69,11 +69,11 @@ const ResidentialPage = () => {
         </div>
       </section>
       <section className="">
-            <div className="headline caps font-com font-bold">
-              <h1>PROPERTY FEATURES</h1>
-            </div>
         <div className="d-md-flex">
           <div className="col-12 col-md-8 d-flex align-items-center justify-content-center">
+             <div className="headline caps font-com font-bold">
+              <h1>PROPERTY FEATURES</h1>
+            </div>
             <div className="desc-box property-desc-box">
               <div className="font-com align-left res-property-list">
                 <h5>INTERIOR</h5>
