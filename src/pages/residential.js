@@ -69,13 +69,32 @@ const ResidentialPage = () => {
         </div>
       </section>
       <section className="">
-        <div className="d-md-flex">
-          <div className="short-desc caps font-com font-bold mb-50">
+            <div className="short-desc caps font-com font-bold mb-50">
               PROPERTY FEATURES
             </div>
+        <div className="d-md-flex">
           <div className="col-12 col-md-8 d-flex align-items-center justify-content-center">
             <div className="desc-box">
-              <div className="short-desc font-com align-left res-property-list">
+              <div className="font-com align-left res-property-list">
+<ul>
+  <li>Quartz Countertops</li>
+  <li>European-style Cabinets w/Soft Close</li>
+  <li>Stylish Wood-like Flooring</li>
+  <li>Stainless Steel Appliances</li>
+  <li>Gas Range &amp; Hood, Dishwasher, Refrigerator,  Microwave</li>
+  <li>Washer &amp; Gas Dryer</li>
+  <li>Recessed LED Lighting</li>
+  <li>Decora Switches/USB Outlets</li>
+  <li>Kohler Faucets &amp; Fixtures</li>
+  <li>Sizable 1 &amp; 2 Bedroom Floorplans</li>
+  <li>Standalone bathtub *</li>
+  <li>Street accessible front doors *</li>
+  <li>Large walk-in master closets *</li>
+  <li>Balconies or Patios</li>
+</ul>
+*Amenity available in select units            
+              </div>
+              <div className="font-com align-left res-property-list">
 <ul>
   <li>Quartz Countertops</li>
   <li>European-style Cabinets w/Soft Close</li>
