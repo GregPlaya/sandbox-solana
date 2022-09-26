@@ -117,7 +117,7 @@ const ResidentialPage = () => {
         </div>
       </section>
       <section>
-        <div className="row bg-orange color-white align-center d-flex align-items-center justify-content-center px-2 res-grid" style={{ minHeight: "50vh", padding-top: "60px" }}>
+        <div className="row bg-orange color-white align-center d-flex align-items-center justify-content-center px-2 res-grid" style={{ minHeight: "50vh", padding-top: 60 }}>
            <div className="col-12 col-md-3 col-lg-3 res-grid-box">
                 <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="Unit Type A">
     <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="Unit Type A" />      
@@ -167,7 +167,7 @@ const ResidentialPage = () => {
               </div>
           </div>
 </div>
-        <div className="row bg-orange color-white align-center d-flex align-items-center justify-content-center px-2 res-grid" style={{ minHeight: "50vh", padding-bottom: "60px"}}>
+        <div className="row bg-orange color-white align-center d-flex align-items-center justify-content-center px-2 res-grid" style={{ minHeight: "50vh", padding-bottom: 60 }}>
            <div className="col-12 col-md-3 col-lg-3 res-grid-box">
                 <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-E.jpg" alt="Unit Type E">
     <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-E.jpg" alt="Unit Type E" />      
