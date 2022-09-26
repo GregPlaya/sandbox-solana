@@ -70,17 +70,35 @@ const ResidentialPage = () => {
       </section>
       <section className="">
         <div className="d-md-flex">
-          <div className="col-12 col-md-6">
-            <StaticImage src="../images/yellow-chair-1.png" alt="" />
-          </div>
-          <div className="col-12 col-md-6 d-flex align-items-center justify-content-center">
+          <div className="short-desc caps font-com font-bold mb-50">
+              PROPERTY FEATURES
+            </div>
+          <div className="col-12 col-md-8 d-flex align-items-center justify-content-center">
             <div className="desc-box">
-              <div className="short-desc font-com color-blue align-center">
-                Want to <br /> live at Sandbox?
-                <SubscribeFormRes />
+              <div className="short-desc font-com align-left">
+<ul>
+  <li>Quartz Countertops</li>
+  <li>European-style Cabinets w/Soft Close</li>
+  <li>Stylish Wood-like Flooring</li>
+  <li>Stainless Steel Appliances</li>
+  <li>Gas Range &amp; Hood, Dishwasher, Refrigerator,  Microwave</li>
+  <li>Washer &amp; Gas Dryer</li>
+  <li>Recessed LED Lighting</li>
+  <li>Decora Switches/USB Outlets</li>
+  <li>Kohler Faucets &amp; Fixtures</li>
+  <li>Sizable 1 &amp; 2 Bedroom Floorplans</li>
+  <li>Standalone bathtub *</li>
+  <li>Street accessible front doors *</li>
+  <li>Large walk-in master closets *</li>
+  <li>Balconies or Patios</li>
+</ul>
+*Amenity available in select units            
               </div>
             </div>
           </div>
+          <div className="col-12 col-md-4">
+            <StaticImage src="../images/yellow-chair-1.png" alt="" />
+          </div>         
         </div>
       </section>
       <section className="full">
@@ -150,6 +168,21 @@ const ResidentialPage = () => {
               </div>
           </div>
        </div>
+      </section>
+     <section className="">
+        <div className="d-md-flex">
+          <div className="col-12 col-md-6">
+            <StaticImage src="../images/yellow-chair-1.png" alt="" />
+          </div>
+          <div className="col-12 col-md-6 d-flex align-items-center justify-content-center">
+            <div className="desc-box">
+              <div className="short-desc font-com color-blue align-center">
+                Want to <br /> live at Sandbox?
+                <SubscribeFormRes />
+              </div>
+            </div>
+          </div>
+        </div>
       </section>
     </Layout>
   )
