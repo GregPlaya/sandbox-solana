@@ -74,8 +74,9 @@ const ResidentialPage = () => {
             </div>
         <div className="d-md-flex">
           <div className="col-12 col-md-8 d-flex align-items-center justify-content-center">
-            <div className="desc-box">
+            <div className="desc-box property-desc-box">
               <div className="font-com align-left res-property-list">
+                <b>INTERIOR</b>
 <ul>
   <li>Quartz Countertops</li>
   <li>European-style Cabinets w/Soft Close</li>
@@ -95,6 +96,7 @@ const ResidentialPage = () => {
 *Amenity available in select units            
               </div>
               <div className="font-com align-left res-property-list">
+                <b>EXTERIOR</b>
 <ul>
   <li>Luxury Coastal Living</li>
   <li>2-Minute Walk to the Beach</li>
