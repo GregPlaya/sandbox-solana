@@ -16,6 +16,7 @@
     line-height: 1.25;
     width: 50%;
     padding: 0 20px;
+    display: table-cell;
 }
 @media (min-width: 768px) {
   .special-border-right {
