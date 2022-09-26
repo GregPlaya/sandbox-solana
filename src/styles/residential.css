@@ -7,9 +7,11 @@
   margin-top: 40px;
   margin-bottom: 40px;
 }
+.res-grid-section {
+  padding: 60px 0px 60px 0px;
+}
 .res-grid {
   max-width: 99.5%;
-  padding: 40px 0px 40px 0px;
 }
 .res-grid-box img {
    max-width: 100%;
