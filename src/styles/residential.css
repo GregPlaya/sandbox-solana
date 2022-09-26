@@ -48,4 +48,11 @@
   .res-property-decoration {
   display: none;
 }
+  .res-grid-box .mt-50 {
+  margin-top: 20px;
+}
+  .res-grid-box img {
+       padding-top: 40px;
+}
+  
 }
