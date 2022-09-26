@@ -11,6 +11,12 @@
   height: auto;
   cursor:pointer;
 }
+.res-property-list {
+    font-size: 20px;
+    line-height: 1.25;
+    width: 50%;
+    padding: 0 20px;
+}
 @media (min-width: 768px) {
   .special-border-right {
     border-right: 2px solid white;
