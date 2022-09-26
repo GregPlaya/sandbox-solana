@@ -156,10 +156,10 @@ const ResidentialPage = () => {
               </div>
           </div>
           <div className="col-12 col-md-3 col-lg-3 res-grid-box">
-                <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="Unit Type A">
+              <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="Unit Type A">
     <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="Unit Type A" />      
               </LightBox> 
-<div className="short-desc caps font-com font-bold mt-50">
+             <div className="short-desc caps font-com font-bold mt-50">
               Unit Type A
              </div>
              <hr className="bg-white my-20 mx-5" />
@@ -167,8 +167,9 @@ const ResidentialPage = () => {
               2 Bed + 2 Bath <br/>1,220 sf
               </div>
           </div>
-      </section>
-     <section className="">
+</div>
+</section>
+<section className="">
         <div className="d-md-flex">
           <div className="col-12 col-md-6">
             <StaticImage src="../images/yellow-chair-1.png" alt="" />
