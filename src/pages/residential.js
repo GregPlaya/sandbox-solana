@@ -49,14 +49,15 @@ const ResidentialPage = () => {
           style={{ minHeight: "50vh" }}
         >
           <div className="desc-box">
-            <div className="short-desc font-com mb-100">
-              Welcome to your Solana Beach home. West of the 101 and just steps
-              from the beach, Sandbox offers residents modern, integrated living
-              spaces in a local neighborhood atmosphere.
+             <div className="short-desc caps font-com font-bold">
+              CHIC BEACHSIDE LUXURY RESIDENCES FOR RENT
             </div>
-            <div className="short-desc caps font-com font-bold">
-              Newly constructed modern living in highly desirable coastal
-              community
+            <div className="short-desc font-com mb-100">
+              Welcome to your Solana Beach home. This newly constructed, modern, coastal multi-family retreat offers residents the ability to experience the luxury Southern California lifestyle. Steps from San Diego’s stunning north county coast, shopping, dining and recreation, living at Sandbox means you are at the center of a dynamic and thriving neighborhood. 
+              
+              Open the door to your modern sanctuary and the design of these distinctive apartment units immediately provides a seamless flow between indoor and outdoor spaces. Upscale amenities and finishes like quartz countertops, stainless steel appliances, soft close European cabinets and walk-in closets are rivaled only by cutting-edge technologies like electronic access controls and EV charging stations. The expansive 1 - and 2 - bedroom units beckon you to prepare dinner with friends, lounge on a private patio and watch the night sky, and then sink into bed where sweet dreams of the beach will lull you to sleep. 
+              
+              Be seduced by the neighborhood, be charmed by the residences, and be inspired for your life
             </div>
             <hr className="bg-white my-40" />
             <div className="short-desc caps font-com font-bold">
