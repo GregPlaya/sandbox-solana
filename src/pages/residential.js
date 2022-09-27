@@ -118,8 +118,8 @@ const ResidentialPage = () => {
       </section>
       <section>
         <div className="row bg-orange color-white align-center d-flex align-items-center justify-content-center px-2 res-grid-first" style={{ minHeight: "50vh" }}>
-            <div className="headline caps font-com font-bold color-white">
-              <h1>PROPERTY FEATURES</h1>
+            <div className="headline caps font-com font-bold color-white align-left mb-20">
+              <h1>FLOOR PLANS</h1>
             </div> 
           <div className="col-12 col-md-3 col-lg-3 res-grid-box">
                 <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="Unit Type A">
