@@ -71,7 +71,7 @@ const ResidentialPage = () => {
       <section className="">
         <div className="d-md-flex">
           <div className="col-12 col-md-8 align-items-center justify-content-center">
-             <div className="headline caps font-com font-bold">
+             <div className="headline caps font-com font-bold property-title">
               <h1>PROPERTY FEATURES</h1>
             </div>
             <div className="desc-box property-desc-box">
