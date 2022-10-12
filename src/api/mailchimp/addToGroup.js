@@ -11,7 +11,8 @@ client.setConfig({
 })
 
 const handler = async (req, res) => {
-  let lowerEmail = req.body.subscriber_email.toLowerCase()
+  console.log('req', req.body)
+  let lowerEmail = req.body.subscriber_email;
   let hash = crypto.createHash("md5").update(lowerEmail).digest("hex")
   const response = await client.lists.setListMember(listId, hash, {
     email_address: lowerEmail,
