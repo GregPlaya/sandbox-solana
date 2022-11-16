@@ -141,6 +141,7 @@
 
 .message {
   padding-top: 10px;
+  color: black;  
 }
 
 @media (max-width: 575px) {
