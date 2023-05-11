@@ -50,11 +50,11 @@ const ResidentialPage = () => {
               CHIC BEACHSIDE LUXURY RESIDENCES FOR RENT
             </div>
             <div className="short-desc font-com font-20 mb-50 align-left line-1-5">
-              <p>Welcome to your Solana Beach home. This newly constructed, modern, coastal multi-family retreat offers residents the ability to experience the luxury Southern California lifestyle. Steps from San Diego’s stunning north county coast, shopping, dining and recreation, living at Sandbox means you are at the center of a dynamic and thriving neighborhood.</p> 
+              <p>Escape to your Solana Beach retreat. This is an unmatched address with a rare location adjacent to Cedros Ave, offering instant access to North County’s best shopping, world-class dining, and galleries. These brand new, modern, coastal apartments offer residents the ability to experience the finest Southern California lifestyle. Steps from San Diego’s stunning north county coast, top eateries, and recreation, living at Sandbox means you are at the center of a dynamic and thriving neighborhood.</p> 
               
-             <p> Open the door to your modern sanctuary and the design of these distinctive apartment units immediately provides a seamless flow between indoor and outdoor spaces. Upscale amenities and finishes like quartz countertops, stainless steel appliances, soft close European cabinets and walk-in closets are rivaled only by cutting-edge technologies like electronic access controls and EV charging stations. The expansive 1 - and 2 - bedroom units beckon you to prepare dinner with friends, lounge on a private patio and watch the night sky, and then sink into bed where sweet dreams of the beach will lull you to sleep. </p> 
+             <p>Open the door to your modern sanctuary and the design of these distinctive apartments immediately provides a seamless blend of indoor and outdoor living. Luxury finishes like quartz countertops, stainless steel appliances, soft close European cabinets and walk-in closets are rivaled only by cutting-edge technologies like electronic access controls and EV charging stations. The expansive 1 - and 2 - bedroom units beckon you to prepare dinner with friends, lounge on a private patio and watch the night sky, and then sink into bed where sweet dreams of the beach will lull you to sleep.</p> 
               
-             <p> Be seduced by the neighborhood, be charmed by the residences, and be inspired for your life.</p> 
+             <p><strong>Be seduced by the neighborhood, be charmed by the residences, and be inspired for your life.<strong></p> 
             </div>
             <hr className="bg-white my-40" />
             <div className="short-desc caps font-com font-bold">
@@ -78,20 +78,20 @@ const ResidentialPage = () => {
               <div className="font-com align-left res-property-list">
                 <h5>INTERIOR</h5>
 <ul>
-  <li>Quartz Countertops</li>
-  <li>European-style Cabinets w/Soft Close</li>
-  <li>Stylish Wood-like Flooring</li>
+  <li>Sizable 1 & 2 Bedroom Floorplans</li>
+  <li>Large Walk-in Master Closets *</li>
+  <li>Expansive Balconies or Patios</li>
   <li>Stainless Steel Appliances</li>
-  <li>Gas Range &amp; Hood, Dishwasher, Refrigerator,  Microwave</li>
+  <li>European-style Cabinets with Soft Close</li>
   <li>Washer &amp; Gas Dryer</li>
+  <li>Stylish Wood-like Flooring</li>
+  <li>Standalone Bathtub *</li>
+  <li>Quartz Countertops</li>
+  <li>Gas Range & Hood, Dishwasher, Refrigerator, Microwave</li>
   <li>Recessed LED Lighting</li>
   <li>Decora Switches/USB Outlets</li>
-  <li>Kohler Faucets &amp; Fixtures</li>
-  <li>Sizable 1 &amp; 2 Bedroom Floorplans</li>
-  <li>Standalone bathtub *</li>
-  <li>Street accessible front doors *</li>
-  <li>Large walk-in master closets *</li>
-  <li>Balconies or Patios</li>
+  <li>Kohler Faucets & Fixtures</li>
+  <li>Street accessible Front Doors *</li>
 </ul>
 *Amenity available in select units            
               </div>
@@ -102,12 +102,14 @@ const ResidentialPage = () => {
   <li>2-Minute Walk to the Beach</li>
   <li>Food &amp; Beverage/Retail Options</li>
   <li>Walk to Restaurants</li>
-  <li>Electronic Access Controls</li>
-  <li>Assigned Subterranean Garage Parking with  Private Entrance</li>
+  <li>Gated Secure Garage with Assigned Parking and Private Entrance</li>
   <li>Elevator Access to Parking Garage</li>
+  <li>
+Ample Guest Parking</li>
   <li>Electric Vehicle Charging Stations Available</li>
   <li>On-site Storage</li>
   <li>Post-Beach Foot Wash</li>
+   <li>Electronic Access Controls</li>
 </ul>            
               </div>
             </div>
@@ -131,6 +133,8 @@ const ResidentialPage = () => {
              <hr className="bg-white my-20 mx-5" />
              <div className="short-desc font-com font-20"> 
               2 Bed + 2 Bath <br/>1,220 sf
+              <br/>1 parking space + storage unit 
+              <br/>$7,695
               </div>
           </div>
            <div className="col-12 col-md-3 col-lg-3 res-grid-box">
@@ -143,6 +147,8 @@ const ResidentialPage = () => {
              <hr className="bg-white my-20 mx-5" />
              <div className="short-desc font-com font-20"> 
               2 Bed + 2 Bath <br/>1,085 sf
+              <br/>1 parking space + storage unit 
+              <br/>$6,795
               </div>
           </div>
           <div className="col-12 col-md-3 col-lg-3 res-grid-box">
@@ -180,7 +186,9 @@ const ResidentialPage = () => {
              </div>
              <hr className="bg-white my-20 mx-5" />
              <div className="short-desc font-com font-20"> 
-              2 Bed + 2 Bath <br/>1,087 sf
+              2 Bed + 2 Bath Penthouse <br/>1,087 sf
+              <br/>2 parking spaces + storage unit 
+              <br/>$8,795             
               </div>
           </div>
            <div className="col-12 col-md-3 col-lg-3 res-grid-box">
@@ -193,6 +201,8 @@ const ResidentialPage = () => {
              <hr className="bg-white my-20 mx-5" />
              <div className="short-desc font-com font-20"> 
               1 Bed + 1 Bath <br/>857 sf
+              <br/>1 parking space + storage unit
+              <br/>$5,895             
               </div>
           </div>
           <div className="col-12 col-md-3 col-lg-3 res-grid-box">
@@ -204,7 +214,9 @@ const ResidentialPage = () => {
              </div>
              <hr className="bg-white my-20 mx-5" />
              <div className="short-desc font-com font-20"> 
-              2 Bed + 2 Bath <br/>1,096 sf
+              2 Bed + 2 Bath Penthouse<br/>1,096 sf
+              <br/>2 parking spaces + storage unit 
+              <br/>$8,250           
               </div>
           </div>
           <div className="col-12 col-md-3 col-lg-3 res-grid-box">
