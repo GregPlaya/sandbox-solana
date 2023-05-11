@@ -15,11 +15,11 @@ const ResidentialPage = () => {
       <Seo title="Sandbox Solana - Residential" />
 <section className="full">
         <div
-          className="sierra-ave relative d-flex justify-content-center"
+          className="sierra-ave color-white relative d-flex justify-content-center"
           style={{ minHeight: "50vh" }}
         >
           <div className="col-12 col-lg-4 justify-content-center res-nav-left d-flex">
-          			<p>Marilyn Comiskey<br />
+          			<p style={{ padding: "30px" }}>Marilyn Comiskey<br />
                		<a href="tel:+18582814113">858.281.4113</a><br/>
               		<a href="mailto:info@sandboxsolana.com">info@sandboxsolana.com</a></p>
           		</div>
@@ -33,8 +33,8 @@ const ResidentialPage = () => {
             </Link>
            </div>
          <div className="col-12 col-lg-4 justify-content-center res-nav-right d-flex">
-             		<a href="mailto:info@sandboxsolana.com"><span class="res-nav-headline">LEASE NOW</span><br/>
-             		STARTING AT $5,750</a>       
+             		<p style={{ padding: "30px" }}><a href="mailto:info@sandboxsolana.com"><span class="res-nav-headline">LEASE NOW</span><br/>
+             		STARTING AT $5,750</a></p>       
           		</div>
         </div>
       </section>
