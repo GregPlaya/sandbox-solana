@@ -13,7 +13,7 @@ const ResidentialPage = () => {
   return (
     <Layout>
       <Seo title="Sandbox Solana - Residential" />
-       <section className="full">
+<section className="full">
         <div style={{ display: "grid" }}>
           <StaticImage
             style={{
@@ -33,24 +33,13 @@ const ResidentialPage = () => {
             }}
             className="residential-logo-wrapper"
           >
-          		<div className="col-12 col-lg-4 res-nav-left">
-          			<p>Marilyn Comiskey<br />
-               		<a href="tel:+18582814113">858.281.4113</a><br />
-              		<a href="mailto:info@sandboxsolana.com">info@sandboxsolana.com</a></p>
-          		</div>
-          		<div className="col-12 col-lg-4 res-nav-middle">
-            		<Link to="/" style={{ padding: "30px" }}></br>
-              		<img
-                	className="img-fluid logo"
-                	src={"/logo-white.svg"}
-                	alt="Sandbox"
-              		/>
-            		</Link>
-            	</div>
-          		<div className="col-12 col-lg-4 res-nav-right">
-             		<a href="mailto:info@sandboxsolana.com"><span class="res-nav-headline">LEASE NOW</span></br>
-             		STARTING AT $5,750</a>       
-          		</div>           
+            <Link to="/" style={{ padding: "30px" }}>
+              <img
+                className="img-fluid logo"
+                src={"/logo-white.svg"}
+                alt="Sandbox"
+              />
+            </Link>
           </div>
         </div>
       </section>
