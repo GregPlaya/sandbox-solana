@@ -119,7 +119,7 @@ Ample Guest Parking</li>
         </div>
       </section>
       <section>
-        <div className="row bg-orange color-white align-center d-flex align-items-center justify-content-center px-2 res-grid-first" style={{ minHeight: "50vh" }}>
+        <div className="row bg-orange color-white align-center d-flex justify-content-center px-2 res-grid-first" style={{ minHeight: "50vh" }}>
             <div className="headline caps font-com font-bold color-white align-left mb-20">
               <h1>FLOOR PLANS</h1>
             </div> 
