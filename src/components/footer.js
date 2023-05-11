@@ -94,8 +94,8 @@ const Footer = () => (
           <div className="col-12 col-sm-6 col-xl-2 location-col">
              <p className="contact-col-header">Residential Leasing Inquiries</p>
             <p>Marilyn Comiskey<br />
-              858.281.4113<br />
-              marilyn@sandboxsolana.com</p>
+               <a href="tel:+18582814113">858.281.4113</a><br />
+              <a href="mailto:marilyn@sandboxsolana.com">marilyn@sandboxsolana.com</a></p>
           </div>
         </div>
       </div>
