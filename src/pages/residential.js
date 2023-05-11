@@ -18,12 +18,12 @@ const ResidentialPage = () => {
           className="sierra-ave relative d-flex justify-content-center"
           style={{ minHeight: "50vh" }}
         >
-          <div className="col-12 col-lg-4 justify-content-center res-nav-left">
+          <div className="col-12 col-lg-4 justify-content-center res-nav-left d-flex">
           			<p>Marilyn Comiskey<br />
                		<a href="tel:+18582814113">858.281.4113</a><br/>
               		<a href="mailto:info@sandboxsolana.com">info@sandboxsolana.com</a></p>
           		</div>
-          <div className="col-12 col-lg-4 justify-content-center res-nav-middle">
+          <div className="col-12 col-lg-4 justify-content-center res-nav-middle d-flex">
           <Link to="/" style={{ padding: "30px" }}>
               <img
                 className="img-fluid logo"
@@ -32,7 +32,7 @@ const ResidentialPage = () => {
               />
             </Link>
            </div>
-         <div className="col-12 col-lg-4 justify-content-center res-nav-right">
+         <div className="col-12 col-lg-4 justify-content-center res-nav-right d-flex">
              		<a href="mailto:info@sandboxsolana.com"><span class="res-nav-headline">LEASE NOW</span><br/>
              		STARTING AT $5,750</a>       
           		</div>
