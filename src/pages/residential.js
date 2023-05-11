@@ -47,6 +47,10 @@ const ResidentialPage = () => {
               />
             </Link>
            </div>
+         <div className="col-12 col-lg-4 res-nav-right">
+             		<a href="mailto:info@sandboxsolana.com"><span class="res-nav-headline">LEASE NOW</span><br/>
+             		STARTING AT $5,750</a>       
+          		</div>
           </div>
         </div>
       </section>
