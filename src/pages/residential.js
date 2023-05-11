@@ -54,7 +54,7 @@ const ResidentialPage = () => {
               
              <p>Open the door to your modern sanctuary and the design of these distinctive apartments immediately provides a seamless blend of indoor and outdoor living. Luxury finishes like quartz countertops, stainless steel appliances, soft close European cabinets and walk-in closets are rivaled only by cutting-edge technologies like electronic access controls and EV charging stations. The expansive 1 - and 2 - bedroom units beckon you to prepare dinner with friends, lounge on a private patio and watch the night sky, and then sink into bed where sweet dreams of the beach will lull you to sleep.</p> 
               
-             <p><strong>Be seduced by the neighborhood, be charmed by the residences, and be inspired for your life.<strong></p> 
+             <p><strong>Be seduced by the neighborhood, be charmed by the residences, and be inspired for your life.</strong></p> 
             </div>
             <hr className="bg-white my-40" />
             <div className="short-desc caps font-com font-bold">
