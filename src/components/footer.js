@@ -12,25 +12,6 @@ const Footer = () => (
       <div className="wrapper">
         <div className="row">
           <div className="col-12 col-sm-6 col-xl-2 footer-logo-col">
-            <img
-              src="/logo-blue.svg"
-              className="img-fluid"
-              alt="Built by Zephyr Logo"
-              style={{ paddingBottom: "28px" }}
-            />
-            <br />
-            <a className="mt-8 text-sm" href="https://builtbyzephyr.com">
-              https://builtbyzephyr.com
-            </a>
-            <br />
-            <img
-              src="/TrustGloveSolanaLogo2.png"
-              alt="Trust Glove Solana Logo"
-              className="img-fluid"
-              style={{ maxWidth: "105px", paddingTop: "28px" }}
-            />
-          </div>
-          <div className="col-12 col-sm-6 col-xl-2 location-col">
             <p className="contact-col-header">Sandbox Location</p>
             <a
               href="https://goo.gl/maps/66vNWxYkNDNeFD2Y6"
@@ -39,10 +20,10 @@ const Footer = () => (
             >
               329 &amp; 343 South Highway 101
               <br />
-              Solana Beach, CA 92075.
+              Solana Beach, CA 92075
             </a>
           </div>
-          <div className="col-12 col-md-6 office-col">
+            <div className="col-12 col-md-6 office-col">
             <hr className="d-md-none" />
             <p className="contact-col-header">Office Lending Inquiries</p>
             <div className="row">
@@ -109,6 +90,12 @@ const Footer = () => (
                 className="usg-logo"
               />
             </div>
+          </div>
+          <div className="col-12 col-sm-6 col-xl-2 location-col">
+             <p className="contact-col-header">Residential Leasing Inquiries</p>
+            <p>Marilyn Comiskey<br />
+              858.281.4113<br />
+              marilyn@sandboxsolana.com</p>
           </div>
         </div>
       </div>
