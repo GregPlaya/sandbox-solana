@@ -33,6 +33,11 @@ const ResidentialPage = () => {
             }}
             className="residential-logo-wrapper"
           >
+                        		<div className="col-12 col-lg-4 res-nav-left">
+          			<p>Marilyn Comiskey<br />
+               		<a href="tel:+18582814113">858.281.4113</a><br/>
+              		<a href="mailto:info@sandboxsolana.com">info@sandboxsolana.com</a></p>
+          		</div>
             <Link to="/" style={{ padding: "30px" }}>
               <img
                 className="img-fluid logo"
