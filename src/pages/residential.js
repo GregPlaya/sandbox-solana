@@ -14,16 +14,10 @@ const ResidentialPage = () => {
     <Layout>
       <Seo title="Sandbox Solana - Residential" />
 <section className="full">
-        <div style={{ display: "grid" }}>
-          <StaticImage
-            style={{
-              gridArea: "1/1",
-            }}
-            layout="fullWidth"
-            alt=""
-            src={"../images/sierra-ave-2.jpg"}
-            formats={["auto", "webp", "avif"]}
-          />
+        <div
+          className="sierra-ave relative d-flex align-items-center justify-content-center"
+          style={{ minHeight: "50vh" }}
+        >
           <div className="col-12 col-lg-4 res-nav-left">
           			<p>Marilyn Comiskey<br />
                		<a href="tel:+18582814113">858.281.4113</a><br/>
