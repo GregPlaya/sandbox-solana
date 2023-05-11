@@ -1,5 +1,6 @@
 .sierra-ave {
-  background-image: url("/sierra-ave-2.jpg");
+  background-image: url("../images/sierra-ave-2.jpg
+");
   background-size: cover;
   background-position: center;
 }
