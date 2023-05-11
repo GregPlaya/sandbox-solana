@@ -24,15 +24,6 @@ const ResidentialPage = () => {
             src={"../images/sierra-ave-2.jpg"}
             formats={["auto", "webp", "avif"]}
           />
-          <div
-            style={{
-              gridArea: "1/1",
-              position: "relative",
-              justifyContent: "center",
-              display: "grid",
-            }}
-            className="residential-logo-wrapper"
-          >
           <div className="col-12 col-lg-4 res-nav-left">
           			<p>Marilyn Comiskey<br />
                		<a href="tel:+18582814113">858.281.4113</a><br/>
@@ -51,7 +42,6 @@ const ResidentialPage = () => {
              		<a href="mailto:info@sandboxsolana.com"><span class="res-nav-headline">LEASE NOW</span><br/>
              		STARTING AT $5,750</a>       
           		</div>
-          </div>
         </div>
       </section>
       <section className="full">
