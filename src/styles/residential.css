@@ -8,7 +8,7 @@
   font-family: "CommutersSans";
   font-size: 16px;
   text-transform: none;
-  line-height: 20px;
+  line-height: 24px;
 }
 .res-nav-left a {
   color: white;
@@ -28,6 +28,9 @@
   letter-spacing: 1.5px;
   display: block;
   text-align: center;
+}
+.res-nav-right a:hover {
+  opacity: 0.7;
 }
 .res-nav-headline {
   font-weight: bold;
