@@ -23,7 +23,7 @@
   font-size: 16px;
   text-transform: uppercase;
   line-height: 20px;
-  border 1px solid white;
+  border: 1px solid white;
   padding: 10px 20px 10px 20px; 
   letter-spacing: 1.5px;
 }
