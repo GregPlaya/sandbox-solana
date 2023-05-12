@@ -7,15 +7,29 @@
   color: white;
   font-family: "CommutersSans";
   font-size: 16px;
-  text-transform: uppercase;
+  text-transform: none;
   line-height: 20px;
 }
 .res-nav-left a {
   color: white;
   font-family: "CommutersSans";
   font-size: 16px;
+  text-transform: none;
+  line-height: 20px;
+}
+.res-nav-right a {
+  color: white;
+  font-family: "CommutersSans";
+  font-size: 16px;
   text-transform: uppercase;
   line-height: 20px;
+  border 1px solid white;
+  padding: 10px 20px 10px 20px; 
+  letter-spacing: 1.5px;
+}
+.res-nav-headline {
+  font-style: bold;
+  font-size: 18px;
 }
 .res-intro-main {
   margin-top: 40px;
