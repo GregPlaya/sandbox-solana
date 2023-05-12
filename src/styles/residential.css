@@ -74,6 +74,11 @@
   background-size: cover;
   background-position: center;
 }
+@media (min-width: 992px) {
+  .res-info-nav-mobile {
+    display: none;
+  }
+}
 @media (min-width: 768px) {
   .special-border-right {
     border-right: 2px solid white;
