@@ -26,9 +26,11 @@
   border: 1px solid white;
   padding: 10px 20px 10px 20px; 
   letter-spacing: 1.5px;
+  display: block;
+  text-align: center;
 }
 .res-nav-headline {
-  font-style: bold;
+  font-weight: bold;
   font-size: 18px;
 }
 .res-intro-main {
