@@ -44,12 +44,12 @@ const ResidentialPage = () => {
           style={{ minHeight: "50vh" }}
         >
           <div className="desc-box">
-            <div className="short-desc font-com color-white align-center">
+            <div className="short-desc font-com color-white align-center res-nav-left">
           			<p style={{ padding: "30px" }}>Marilyn Comiskey<br />
                		<a href="tel:+18582814113">858.281.4113</a><br/>
               		<a href="mailto:info@sandboxsolana.com">info@sandboxsolana.com</a></p>
               </div>
-            <div>
+            <div className="res-nav-right">
              	  <p style={{ padding: "30px" }}><a href="mailto:info@sandboxsolana.com"><span class="res-nav-headline">LEASE NOW</span><br/>
              		STARTING AT $5,750</a></p>   
             </div>
