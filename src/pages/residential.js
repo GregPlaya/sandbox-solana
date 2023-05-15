@@ -20,7 +20,7 @@ const ResidentialPage = () => {
         >
           <div className="col-12 col-lg-4 justify-content-center res-nav-left d-flex">
           			<p style={{ padding: "30px" }}>Marilyn Comiskey<br />
-               		<a href="tel:+18582814113">858.281.4113</a><br/>
+               		<a href="tel:+18582901444">858.290.1444</a><br/>
               		<a href="mailto:info@sandboxsolana.com">info@sandboxsolana.com</a></p>
           		</div>
           <div className="col-12 col-lg-4 justify-content-center res-nav-middle d-flex">
@@ -44,15 +44,15 @@ const ResidentialPage = () => {
           style={{ minHeight: "50vh" }}
         >
           <div className="desc-box">
-            <div className="short-desc font-com color-white align-center res-nav-left">
-          			<p style={{ padding: "30px" }}>Marilyn Comiskey<br />
-               		<a href="tel:+18582814113">858.281.4113</a><br/>
-              		<a href="mailto:info@sandboxsolana.com">info@sandboxsolana.com</a></p>
-              </div>
             <div className="res-nav-right">
              	  <p style={{ padding: "30px" }}><a href="mailto:info@sandboxsolana.com"><span class="res-nav-headline">LEASE NOW</span><br/>
              		STARTING AT $5,750</a></p>   
             </div>
+            <div className="short-desc font-com color-white align-center res-nav-left">
+          			<p style={{ padding: "30px" }}>Marilyn Comiskey<br />
+               		<a href="tel:+18582901444">858.290.1444</a><br/>
+              		<a href="mailto:info@sandboxsolana.com">info@sandboxsolana.com</a></p>
+              </div>            
           </div>
         </div>
       </section>
