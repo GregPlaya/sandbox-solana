@@ -133,6 +133,27 @@ Ample Guest Parking</li>
       </section>
       <section>
         <div className="row bg-orange color-white align-center d-flex justify-content-center px-2 res-grid-first" style={{ minHeight: "50vh" }}>
+            <div className="headline font-com font-bold color-white align-left mb-20">
+              <h1>PRIORITY! Now Leasing the following Premiere Residences:</h1>
+            </div>                     
+          <div class="row d-flex justify-content-center">
+          <div class="col-lg-2 col-md-6">
+            <div className="short-desc font-com font-20"> 
+            “A” Floorplan: Unit 107<br/>
+            2 Bed + 2 Bath<br/>
+            2 parking spaces + storage unit <br/>
+            $7695
+            </div>
+          </div>
+  <div class="col-lg-2 col-md-6">Column 2</div>
+
+  <div class="col-lg-2 col-md-6">Column 3</div>
+
+  <div class="col-lg-2 col-md-6">Column 4</div>
+
+  <div class="col-lg-2 col-md-6">Column 5</div>
+</div>          
+          
             <div className="headline caps font-com font-bold color-white align-left mb-20">
               <h1>FLOOR PLANS</h1>
             </div> 
