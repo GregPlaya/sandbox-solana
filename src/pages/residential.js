@@ -145,13 +145,41 @@ Ample Guest Parking</li>
             $7695
             </div>
           </div>
-  <div class="col-lg-2 col-md-6">Column 2</div>
+          <div class="col-lg-2 col-md-6">
+            <div className="short-desc font-com font-20"> 
+            “B” Floorplan: Unit 102<br/>
+            2 Bed + 2 Bath<br/>
+            2 parking spaces + storage unit <br/>
+            $6795
+            </div>
+          </div>
 
-  <div class="col-lg-2 col-md-6">Column 3</div>
+          <div class="col-lg-2 col-md-6">
+            <div className="short-desc font-com font-20"> 
+           “E” Floorplan: Unit 213<br/>
+            2 Bed + 2 Bath Penthouse<br/>
+            2 parking spaces + storage unit <br/>
+            $8,795
+            </div>
+          </div>
 
-  <div class="col-lg-2 col-md-6">Column 4</div>
+          <div class="col-lg-2 col-md-6">
+            <div className="short-desc font-com font-20"> 
+            “F” Floorplan: Unit 108<br/>
+            1 Bed + 1 Bath<br/>
+            2 parking spaces + storage unit <br/>
+            $5,895
+            </div>
+          </div>
 
-  <div class="col-lg-2 col-md-6">Column 5</div>
+          <div class="col-lg-2 col-md-6">
+            <div className="short-desc font-com font-20"> 
+           “G” Floorplan: Unit 210<br/>
+            2 Bed + 2 Bath Penthouse <br/>
+            2 parking spaces + storage unit <br/>
+            $8,250
+            </div>
+          </div>
 </div>          
           
             <div className="headline caps font-com font-bold color-white align-left mb-20">
