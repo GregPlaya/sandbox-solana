@@ -24,7 +24,7 @@ const ResidentialPage = () => {
               		<a href="mailto:info@sandboxsolana.com">info@sandboxsolana.com</a></p>
           		</div>
           <div className="col-12 col-lg-4 justify-content-center res-nav-middle d-flex">
-          <Link to="/" style={{ padding: "30px" }}>
+          <Link to="#" style={{ padding: "30px" }}>
               <img
                 className="img-fluid logo"
                 src={"/logo-white.svg"}
@@ -137,7 +137,7 @@ Ample Guest Parking</li>
               <h1>PRIORITY!  Now Leasing the following Premiere Residences:</h1>
             </div>                     
           <div class="row d-flex justify-content-center">
-          <div class="col-lg-2 col-md-6">
+          <div class="col-lg-2 col-md-6 pb-5">
             <div className="short-desc font-com font-20"> 
             “A” Floorplan: Unit 107<br/>
             2 Bed + 2 Bath<br/>
@@ -145,7 +145,7 @@ Ample Guest Parking</li>
             $7695
             </div>
           </div>
-          <div class="col-lg-2 col-md-6">
+          <div class="col-lg-2 col-md-6 pb-5">
             <div className="short-desc font-com font-20"> 
             “B” Floorplan: Unit 102<br/>
             2 Bed + 2 Bath<br/>
@@ -154,7 +154,7 @@ Ample Guest Parking</li>
             </div>
           </div>
 
-          <div class="col-lg-2 col-md-6">
+          <div class="col-lg-2 col-md-6 pb-5">
             <div className="short-desc font-com font-20"> 
            “E” Floorplan: Unit 213<br/>
             2 Bed + 2 Bath Penthouse<br/>
@@ -163,7 +163,7 @@ Ample Guest Parking</li>
             </div>
           </div>
 
-          <div class="col-lg-2 col-md-6">
+          <div class="col-lg-2 col-md-6 pb-5">
             <div className="short-desc font-com font-20"> 
             “F” Floorplan: Unit 108<br/>
             1 Bed + 1 Bath<br/>
@@ -172,7 +172,7 @@ Ample Guest Parking</li>
             </div>
           </div>
 
-          <div class="col-lg-2 col-md-6">
+          <div class="col-lg-2 col-md-6pb-5">
             <div className="short-desc font-com font-20"> 
            “G” Floorplan: Unit 210<br/>
             2 Bed + 2 Bath Penthouse <br/>
