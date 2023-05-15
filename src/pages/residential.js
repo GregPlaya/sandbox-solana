@@ -182,7 +182,7 @@ Ample Guest Parking</li>
           </div>
 </div>          
           
-            <div className="headline caps font-com font-bold color-white align-left mb-20">
+            <div className="headline caps font-com font-bold color-white align-left my-30">
               <h1>FLOOR PLANS</h1>
             </div> 
           <div className="col-12 col-md-3 col-lg-3 res-grid-box">
