@@ -57,7 +57,7 @@ const ResidentialPage = () => {
         </div>
       </section>
       <section className="full">
-        <div className="bg-orange color-white align-center d-flex align-items-center justify-content-center" style={{ minHeight: "50vh" }}>
+        <div className="bg-orange color-white align-center d-flex align-items-center justify-content-center py-5" style={{ minHeight: "50vh" }}>
           <div className="desc-box res-intro-main">
              <div className="short-desc caps font-com font-bold mb-20">
               CHIC BEACHSIDE LUXURY RESIDENCES FOR RENT
@@ -81,7 +81,7 @@ const ResidentialPage = () => {
           </div>
         </div>
       </section>
-      <section className="">
+      <section className="" style={{ overflow-y: "hidden" }}>
         <div className="d-md-flex">
           <div className="col-12 col-md-8 align-items-center justify-content-center">
              <div className="headline caps font-com font-bold property-title">
