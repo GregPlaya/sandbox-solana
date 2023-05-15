@@ -79,6 +79,7 @@
   overflow-y: hidden;
   margin-top: 95px;
 } 
+}
 @media (min-width: 992px) {
   .res-info-nav-mobile {
     display: none;
