@@ -57,7 +57,7 @@ const ResidentialPage = () => {
         </div>
       </section>
       <section className="full">
-        <div className="bg-orange color-white align-center d-flex align-items-center justify-content-center pt-5" style={{ minHeight: "50vh" }}>
+        <div className="bg-orange color-white align-center d-flex align-items-center justify-content-center py-3" style={{ minHeight: "50vh" }}>
           <div className="desc-box res-intro-main">
              <div className="short-desc caps font-com font-bold mb-20">
               CHIC BEACHSIDE LUXURY RESIDENCES FOR RENT
