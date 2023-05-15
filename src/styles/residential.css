@@ -74,12 +74,10 @@
   background-size: cover;
   background-position: center;
 }
-@media (max-width: 1280px) {
 .overflowy {
   overflow-y: hidden;
   margin-top: 95px;
 } 
-}
 @media (min-width: 992px) {
   .res-info-nav-mobile {
     display: none;
