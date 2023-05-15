@@ -74,6 +74,9 @@
   background-size: cover;
   background-position: center;
 }
+.overflowy {
+  overflow-y: hidden;
+} 
 @media (min-width: 992px) {
   .res-info-nav-mobile {
     display: none;
