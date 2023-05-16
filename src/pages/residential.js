@@ -142,7 +142,7 @@ Ample Guest Parking</li>
             “A” Floorplan: Unit 107<br/>
             2 Bed + 2 Bath<br/>
             2 parking spaces + storage unit <br/>
-            $7695
+            $7,695
             </div>
           </div>
           <div class="col-lg-2 col-md-6 pb-5">
@@ -150,7 +150,7 @@ Ample Guest Parking</li>
             “B” Floorplan: Unit 102<br/>
             2 Bed + 2 Bath<br/>
             2 parking spaces + storage unit <br/>
-            $6795
+            $6,795
             </div>
           </div>
 
