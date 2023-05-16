@@ -244,7 +244,7 @@ Ample Guest Parking</li>
              </div>
              <hr className="bg-white my-20 mx-5" />
              <div className="short-desc font-com font-20"> 
-              2 Bed + 2 Bath Penthouse <br/>1,087 sf            
+              2 Bed + 2 Bath<br/>1,087 sf            
               </div>
           </div>
            <div className="col-12 col-md-3 col-lg-3 res-grid-box">
@@ -268,7 +268,7 @@ Ample Guest Parking</li>
              </div>
              <hr className="bg-white my-20 mx-5" />
              <div className="short-desc font-com font-20"> 
-              2 Bed + 2 Bath Penthouse<br/>1,096 sf         
+              2 Bed + 2 Bath<br/>1,096 sf         
               </div>
           </div>
           <div className="col-12 col-md-3 col-lg-3 res-grid-box">
