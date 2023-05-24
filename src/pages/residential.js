@@ -288,7 +288,7 @@ Ample Guest Parking</li>
 <section className="">
         <div className="d-md-flex">
           <div className="col-12 col-md-6">
-            <StaticImage src="../images/yellow-chair-1.png" alt="" />
+            <StaticImage src="../images/sandbox-solana-beach-map.jpg" alt="" />
           </div>
           <div className="col-12 col-md-6 d-flex align-items-center justify-content-center">
             <div className="desc-box">
