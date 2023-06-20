@@ -19,7 +19,7 @@ const ResidentialPage = () => {
           style={{ minHeight: "50vh" }}
         >
           <div className="col-12 col-lg-4 justify-content-center res-nav-left d-flex">
-          			<p style={{ padding: "30px" }}>Marilyn Comiskey<br />
+          			<p style={{ padding: "30px" }}>Leasing<br />
                		<a href="tel:+18582901444">858.290.1444</a><br/>
               		<a href="mailto:info@sandboxsolana.com">info@sandboxsolana.com</a></p>
           		</div>
