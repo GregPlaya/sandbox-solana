@@ -93,7 +93,7 @@ const Footer = () => (
           </div>
           <div className="col-12 col-sm-6 col-xl-2 location-col">
              <p className="contact-col-header">Residential Leasing Inquiries</p>
-            <p>Marilyn Comiskey<br />
+            <p>Leasing<br />
                <a href="tel:+18582901444">858.290.1444</a><br />
               <a href="mailto:info@sandboxsolana.com">info@sandboxsolana.com</a></p>
           </div>
