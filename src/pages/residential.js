@@ -104,7 +104,7 @@ const ResidentialPage = () => {
   <li>Recessed LED Lighting</li>
   <li>Decora Switches/USB Outlets</li>
   <li>Kohler Faucets & Fixtures</li>
-  <li>Street accessible Front Doors *</li>
+  <li>Street accessible Front Doors*</li>
 </ul>
 *Amenity available in select units            
               </div>
