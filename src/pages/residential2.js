@@ -47,6 +47,7 @@ const ResidentialPage = () => {
           className="bg-orange color-white align-center d-flex align-items-center justify-content-center"
           style={{ minHeight: "50vh" }}
         >
+          video
           <iframe src="https://my.matterport.com/show/?m=VpWJgn1y9Nz&mls=1" width="640" height="360" frameborder="0" loading="lazy" allow="fullscreen; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; magnetometer; xr-spatial-tracking;"></iframe>
           <div className="desc-box">
             <div className="short-desc font-com mb-100">
