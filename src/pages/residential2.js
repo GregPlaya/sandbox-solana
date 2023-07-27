@@ -79,8 +79,8 @@ const ResidentialPage = () => {
           </div>
         </div>                 
       </section>     
-    <section className="gallery-grid">
-        <div className="row bg-orange color-white align-center d-flex justify-content-center px-2 res-grid-first" style={{ minHeight: "50vh" }}>
+    <section className="">
+        <div className="row gallery-grid bg-orange color-white align-center d-flex justify-content-center px-2 res-grid-first" style={{ minHeight: "50vh" }}>
                 <div className="col-12 col-md-3 col-lg-3 res-grid-box gallery-item">
                 <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-39.jpg" alt="Unit Type A">
     <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-39.jpg" alt="Unit Type A" />      
