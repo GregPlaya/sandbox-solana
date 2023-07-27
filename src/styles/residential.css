@@ -1,3 +1,8 @@
+.matterport-box {
+  max-width: 640px;
+  padding: 50px 0px;
+  margin: 0 auto;
+}
 .sierra-ave {
   background-image: url("../images/sierra-ave-2.jpg");
   background-size: cover;
