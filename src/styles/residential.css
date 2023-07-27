@@ -2,11 +2,11 @@
   padding-bottom: 70px !important;
 }
 .gallery-item {
-  margin-bottom: 25px;
-  height: 300px !important; /* [1.1] Set it as per your need */
-  overflow: hidden !important; /* [1.2] Hide the overflowing of child elements */
-  width: 438px !important;
-}
+    height: 292px!important;
+    overflow: hidden!important;
+    width: 438px!important;
+    padding: 0 !important;
+    margin: 0px 10px 25px 10px;
 .gallery-item img {
   transition: transform .5s ease;
   width: 100%;
