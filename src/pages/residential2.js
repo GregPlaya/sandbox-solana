@@ -78,7 +78,11 @@ const ResidentialPage = () => {
             </div>
           </div>
         </div>                 
-      </section>             
+      </section>     
+    <section className="full">
+        <div className="bg-orange color-white align-center d-flex align-items-center justify-content-center py-5" style={{ minHeight: "50vh" }}>
+        </div>                 
+    </section>    
       <section className="overflowy">
         <div className="d-md-flex">
           <div className="col-12 col-md-8 align-items-center justify-content-center">
