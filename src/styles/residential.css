@@ -1,3 +1,6 @@
+.gallery-item {
+  padding-bottom: 20px;
+}
 .matterport-box {
   max-width: 640px;
   padding: 50px 0px;
@@ -81,7 +84,7 @@
 }
 .overflowy {
   overflow-y: hidden;
-  margin-top: 95px;
+  margin-top: 0px;
 } 
 .headline {
     padding: 60px 20px 20px;
