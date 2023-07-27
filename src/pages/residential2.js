@@ -79,6 +79,11 @@ const ResidentialPage = () => {
               18 - 2 bedroom units
             </div>
           </div>
+          <div className="col-12 col-md-3 col-lg-3 res-grid-box">
+                <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="Unit Type A">
+    <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="Unit Type A" />      
+              </LightBox> 
+                </div>
         </div>                            
       </section>
       <section className="overflowy">
