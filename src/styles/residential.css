@@ -148,6 +148,6 @@
   margin-bottom: 40px;
 }
 .matterport-box {
-  max-width: 480px;
+  max-width: 480px !important;
 }
 }
