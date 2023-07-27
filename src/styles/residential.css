@@ -2,11 +2,10 @@
   padding-bottom: 70px !important;
 }
 .gallery-item {
-  padding-bottom: 25px;
-  height: 300px; /* [1.1] Set it as per your need */
-  overflow: hidden; /* [1.2] Hide the overflowing of child elements */
-  margin: 0 auto;
-  width: 438px;
+  margin-bottom: 25px;
+  height: 300px !important; /* [1.1] Set it as per your need */
+  overflow: hidden !important; /* [1.2] Hide the overflowing of child elements */
+  width: 438px !important;
 }
 .gallery-item img {
   transition: transform .5s ease;
