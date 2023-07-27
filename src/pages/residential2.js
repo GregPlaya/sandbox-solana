@@ -77,8 +77,9 @@ const ResidentialPage = () => {
               18 - 2 bedroom units
             </div>
           </div>
-        </div> 
-
+        </div>                 
+      </section>
+ <section>
                 <div className="bg-orange color-white align-center d-flex align-items-center justify-content-center py-5" style={{ minHeight: "50vh" }}>
                 <div className="col-12 col-md-3 col-lg-3 res-grid-box">
                 <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-39.jpg" alt="Unit Type A">
@@ -119,8 +120,7 @@ const ResidentialPage = () => {
               </LightBox> 
                 </div>
 </div>
-                
-      </section>
+</section>                
       <section className="overflowy">
         <div className="d-md-flex">
           <div className="col-12 col-md-8 align-items-center justify-content-center">
