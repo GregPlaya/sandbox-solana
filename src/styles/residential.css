@@ -14,6 +14,10 @@
 }
 .gallery-item:hover img {
   transform: scale(1.5);
+  height: 300px; /* [1.1] Set it as per your need */
+  overflow: hidden; /* [1.2] Hide the overflowing of child elements */
+  margin: 0 auto;
+  width: 438px;
 }
 .matterport-box {
   max-width: 640px;
