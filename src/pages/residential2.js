@@ -63,10 +63,8 @@ const ResidentialPage = () => {
               CHIC BEACHSIDE LUXURY RESIDENCES FOR RENT
             </div>
             <div className="short-desc font-com font-20 mb-50 align-left line-1-5">
-              <p>Escape to your Solana Beach retreat. This is an unmatched address with a rare location adjacent to Cedros Ave, offering instant access to North County’s best shopping, world-class dining, and galleries. These brand new, modern, coastal apartments offer residents the ability to experience the finest Southern California lifestyle. Steps from San Diego’s stunning north county coast, top eateries, and recreation, living at Sandbox means you are at the center of a dynamic and thriving neighborhood.</p> 
-              
-             <p>Open the door to your modern sanctuary and the design of these distinctive apartments immediately provides a seamless blend of indoor and outdoor living. Luxury finishes like quartz countertops, stainless steel appliances, soft close European cabinets and walk-in closets are rivaled only by cutting-edge technologies like electronic access controls and EV charging stations. The expansive 1 - and 2 - bedroom units beckon you to prepare dinner with friends, lounge on a private patio and watch the night sky, and then sink into bed where sweet dreams of the beach will lull you to sleep.</p> 
-              
+              <p>Escape to your Solana Beach retreat. This is an unmatched address with a rare location adjacent to Cedros Ave, offering instant access to North County’s best shopping, world-class dining, and galleries. These brand new, modern, coastal apartments offer residents the ability to experience the finest Southern California lifestyle. Steps from San Diego’s stunning north county coast, top eateries, and recreation, living at Sandbox means you are at the center of a dynamic and thriving neighborhood.</p>               
+             <p>Open the door to your modern sanctuary and the design of these distinctive apartments immediately provides a seamless blend of indoor and outdoor living. Luxury finishes like quartz countertops, stainless steel appliances, soft close European cabinets and walk-in closets are rivaled only by cutting-edge technologies like electronic access controls and EV charging stations. The expansive 1 - and 2 - bedroom units beckon you to prepare dinner with friends, lounge on a private patio and watch the night sky, and then sink into bed where sweet dreams of the beach will lull you to sleep.</p>               
              <p><strong>Be seduced by the neighborhood, be charmed by the residences, and be inspired for your life.</strong></p> 
             </div>
             <hr className="bg-white my-40" />
@@ -78,29 +76,6 @@ const ResidentialPage = () => {
               <br className="d-sm-none" />
               18 - 2 bedroom units
             </div>
-          </div>
-</div>
-<div className="bg-orange color-white align-center d-flex align-items-center justify-content-center py-5" style={{ minHeight: "50vh" }}>
-          <div className="col-12 col-md-3 col-lg-3 res-grid-box">
-                <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-39.jpg" alt="Unit Type A">
-    <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-39.jpg" alt="Unit Type A" />      
-              </LightBox> 
-                </div>
-                <div className="col-12 col-md-3 col-lg-3 res-grid-box">
-                <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-40.jpg" alt="Unit Type A">
-    <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-40.jpg" alt="Unit Type A" />      
-              </LightBox> 
-                </div>
-                 <div className="col-12 col-md-3 col-lg-3 res-grid-box">
-                <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-66.jpg" alt="Unit Type A">
-    <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-66.jpg" alt="Unit Type A" />      
-              </LightBox> 
-            <div className="col-12 col-md-3 col-lg-3 res-grid-box">
-                <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-32.jpg" alt="Unit Type A">
-    <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-32.jpg" alt="Unit Type A" />      
-              </LightBox> 
-                </div>
-
           </div>
         </div>                            
       </section>
