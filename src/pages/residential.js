@@ -326,7 +326,7 @@ Ample Guest Parking</li>
               </div>
           </div>
         <div className="col-12 matterport-box">      
-          <iframe src="https://my.matterport.com/show/?m=VpWJgn1y9Nz&mls=1" width="640" height="360" frameborder="0" loading="lazy" allow="fullscreen; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; magnetometer; xr-spatial-tracking;"></iframe>   
+          <iframe src="https://my.matterport.com/show/?m=VpWJgn1y9Nz&mls=1" width="960" height="540" frameborder="0" loading="lazy" allow="fullscreen; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; magnetometer; xr-spatial-tracking;"></iframe>   
         </div>
 </div>
 </section>
