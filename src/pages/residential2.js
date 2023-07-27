@@ -283,7 +283,9 @@ Ample Guest Parking</li>
               1 Bed + 1 Bath <br/>860 sf
               </div>
           </div>
+        <div className="col-12 matterport-box">      
           <iframe src="https://my.matterport.com/show/?m=VpWJgn1y9Nz&mls=1" width="640" height="360" frameborder="0" loading="lazy" allow="fullscreen; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; magnetometer; xr-spatial-tracking;"></iframe>   
+        </div>
 </div>
 </section>
 <section className="">
