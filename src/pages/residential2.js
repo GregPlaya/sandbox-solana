@@ -79,11 +79,28 @@ const ResidentialPage = () => {
               18 - 2 bedroom units
             </div>
           </div>
+          <div>
           <div className="col-12 col-md-3 col-lg-3 res-grid-box">
-                <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="Unit Type A">
-    <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-A.jpg" alt="Unit Type A" />      
+                <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-39.jpg" alt="Unit Type A">
+    <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-39.jpg" alt="Unit Type A" />      
               </LightBox> 
                 </div>
+                <div className="col-12 col-md-3 col-lg-3 res-grid-box">
+                <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-40.jpg" alt="Unit Type A">
+    <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-40.jpg" alt="Unit Type A" />      
+              </LightBox> 
+                </div>
+                 <div className="col-12 col-md-3 col-lg-3 res-grid-box">
+                <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-66.jpg" alt="Unit Type A">
+    <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-66.jpg" alt="Unit Type A" />      
+              </LightBox> 
+            <div className="col-12 col-md-3 col-lg-3 res-grid-box">
+                <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-32.jpg" alt="Unit Type A">
+    <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-32.jpg" alt="Unit Type A" />      
+              </LightBox> 
+                </div>
+                </div>
+          </div>
         </div>                            
       </section>
       <section className="overflowy">
