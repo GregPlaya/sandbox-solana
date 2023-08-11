@@ -59,7 +59,7 @@ export default class SubscribeFormRes extends React.Component {
             />
             <button
               disabled={this.state.disabledSubmit}
-              className="btn btn-blue font-com font-20"
+              className="btn btn-slate font-com font-20"
               type="submit"
             >
               JOIN THE INTEREST LIST
