@@ -157,6 +157,7 @@
 .gallery-grid {
     padding-top: 0px !important;
 }
+}
 @media (min-width: 1800px) {
   .px-2.gallery-grid {
     padding-left: 5% !important;
