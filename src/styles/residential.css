@@ -146,10 +146,13 @@
   .res-intro-main {
   margin-top: 0px;
   margin-bottom: 40px;
+  padding: 0px !important;
 }
 .matterport-box {
   max-width: 480px !important;
 }
+.headline.my-30 {
+  margin-bottom: 0px !important;
 }
 @media (min-width: 1800px) {
   .px-2.gallery-grid {
