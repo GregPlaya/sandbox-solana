@@ -50,6 +50,14 @@
   background-color: white;
 }
 
+.bg-slate {
+  background-color: #686769;
+}
+
+.bg-marble {
+  background-color: #a79587;
+}
+
 .desc-box {
   padding: 60px 0px;
   max-width: 100%;
