@@ -191,3 +191,8 @@
     font-size: initial;
   }
 }
+
+.mc_embed_signup #mce-EMAIL {
+    border-bottom: 2px solid #666364 !important;
+    color: #666364 !important;
+}
