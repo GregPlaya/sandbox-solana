@@ -40,7 +40,7 @@ const ResidentialPage = () => {
       </section>
   <section className="res-info-nav-mobile">
         <div
-          className="bg-blue d-flex align-items-center justify-content-center"
+          className="bg-slate d-flex align-items-center justify-content-center"
           style={{ minHeight: "50vh" }}
         >
           <div className="desc-box">
@@ -342,7 +342,7 @@ Ample Guest Parking</li>
           </div>
           <div className="col-12 col-md-6 d-flex align-items-center justify-content-center">
             <div className="desc-box">
-              <div className="short-desc font-com color-blue align-center">
+              <div className="short-desc font-com color-slate align-center">
                 Want to <br /> live at Sandbox?
                 <SubscribeFormRes />
               </div>
