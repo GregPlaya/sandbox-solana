@@ -244,6 +244,16 @@ figure .gatsby-image-wrapper {
   opacity: 0.7;
 }
 
+.btn.btn-slate {
+  background-color: transparent;
+  border: 2px solid #666364;
+  color: #666364;
+}
+
+.btn.btn-slate:hover {
+  opacity: 0.7;
+}
+
 input.btn {
   cursor: pointer;
 }
