@@ -133,7 +133,7 @@
 }
 
 .mc_embed_signup #mce-EMAIL::placeholder {
-  color: var(--blue);
+  color: #676567;
   font-family: "CommutersSans";
   font-weight: 400;
   font-size: 15px;
