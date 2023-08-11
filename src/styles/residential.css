@@ -1,3 +1,7 @@
+.:root {
+  --blue: #676566;
+  --orange: #ff5a22;
+}
 .gallery-grid {
   padding-bottom: 70px !important;
 }
