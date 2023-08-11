@@ -57,7 +57,7 @@ const ResidentialPage = () => {
         </div>
       </section>
       <section className="full">
-        <div className="bg-orange color-white align-center d-flex align-items-center justify-content-center py-5" style={{ minHeight: "50vh" }}>
+        <div className="bg-slate color-white align-center d-flex align-items-center justify-content-center py-5" style={{ minHeight: "50vh" }}>
           <div className="desc-box res-intro-main">
              <div className="short-desc caps font-com font-bold mb-20">
               CHIC BEACHSIDE LUXURY RESIDENCES FOR RENT
@@ -80,7 +80,7 @@ const ResidentialPage = () => {
         </div>                 
       </section>     
     <section className="">
-        <div className="row bg-orange color-white align-center d-flex justify-content-center px-2 res-grid-first gallery-grid" style={{ minHeight: "50vh" }}>
+        <div className="row bg-slate color-white align-center d-flex justify-content-center px-2 res-grid-first gallery-grid" style={{ minHeight: "50vh" }}>
                 <div className="col-12 col-md-3 col-lg-3 res-grid-box gallery-item">
                 <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-39.jpg" alt="Unit Type A">
     <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-39.jpg" alt="Unit Type A" />      
@@ -174,7 +174,7 @@ Ample Guest Parking</li>
         </div>
       </section>
       <section>
-        <div className="row bg-orange color-white align-center d-flex justify-content-center px-2 res-grid-first" style={{ minHeight: "50vh" }}>
+        <div className="row bg-marble color-white align-center d-flex justify-content-center px-2 res-grid-first" style={{ minHeight: "50vh" }}>
             <div className="headline font-com font-bold color-white align-left mb-20">
               <h1>PRIORITY!  Now Leasing the following Premiere Residences:</h1>
             </div>                     
@@ -276,7 +276,7 @@ Ample Guest Parking</li>
               </div>
           </div>
 </div>
-        <div className="row bg-orange color-white align-center d-flex justify-content-center px-2 res-grid-last" style={{ minHeight: "50vh" }}>
+        <div className="row bg-marble color-white align-center d-flex justify-content-center px-2 res-grid-last" style={{ minHeight: "50vh" }}>
            <div className="col-12 col-md-3 col-lg-3 res-grid-box">
                 <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-E.jpg" alt="Unit Type E">
     <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-Unit-Type-E.jpg" alt="Unit Type E" />      
