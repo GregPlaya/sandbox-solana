@@ -83,17 +83,17 @@ const ResidentialPage = () => {
    <div className="row bg-slate color-white align-center d-flex justify-content-center px-2 res-grid-first gallery-grid" style={{ minHeight: "50vh" }}>
                  <div className="col-12 col-md-4 col-lg-4 res-grid-box gallery-item">
                 <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-5.jpg" alt="Unit Type A">
-    <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-18.jpg" alt="Unit Type A" />      
+    <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-5.jpg" alt="Unit Type A" />      
               </LightBox> 
                 </div>
             <div className="col-12 col-md-4 col-lg-4 res-grid-box gallery-item">
                 <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-42.jpg" alt="Unit Type A">
-    <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-33.jpg" alt="Unit Type A" />      
+    <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-42.jpg" alt="Unit Type A" />      
               </LightBox> 
                 </div>
             <div className="col-12 col-md-4 col-lg-4 res-grid-box gallery-item">
                 <LightBox src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-45.jpg" alt="Unit Type A">
-    <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-33.jpg" alt="Unit Type A" />      
+    <img src="https://raw.githubusercontent.com/GregPlaya/sandbox-solana/main/src/images/sandbox-solana-beach-residential-living-leasing-gallery-45.jpg" alt="Unit Type A" />      
               </LightBox> 
                 </div>
                 <div className="col-12 col-md-4 col-lg-4 res-grid-box gallery-item">
