@@ -40,7 +40,7 @@ const ResidentialPage = () => {
       </section>
   <section className="res-info-nav-mobile">
         <div
-          className="bg-slate d-flex align-items-center justify-content-center"
+          className="bg-marble d-flex align-items-center justify-content-center"
           style={{ minHeight: "50vh" }}
         >
           <div className="desc-box">
