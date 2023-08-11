@@ -59,7 +59,7 @@ export default class SubscribeForm extends React.Component {
             />
             <button
               disabled={this.state.disabledSubmit}
-              className="btn btn-blue font-com"
+              className="btn btn-slate font-com"
               type="submit"
             >
               SUBMIT
