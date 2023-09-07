@@ -46,7 +46,7 @@ const ResidentialPage = () => {
           <div className="desc-box">
             <div className="res-nav-right">
              	  <p style={{ padding: "30px" }}><a href="mailto:info@sandboxsolana.com"><span class="res-nav-headline">LEASE NOW</span><br/>
-             		STARTING AT $5,750</a></p>   
+             		STARTING AT $5,895</a></p>   
             </div>
             <div className="short-desc font-com color-white align-center res-nav-left">
           			<p style={{ padding: "30px" }}>Leasing<br />
