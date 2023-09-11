@@ -13,7 +13,8 @@ const ResidentialPage = () => {
   return (
     <Layout>
       <Seo title="Sandbox Solana - Residential" />
-<section className="full">
+<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZJ4E3VH995"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-ZJ4E3VH995'); </script>
+    <section className="full">
         <div
           className="sierra-ave color-white relative d-flex justify-content-center"
           style={{ minHeight: "50vh" }}
