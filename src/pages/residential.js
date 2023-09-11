@@ -13,7 +13,6 @@ const ResidentialPage = () => {
   return (
     <Layout>
       <Seo title="Sandbox Solana - Residential" />
-
         <div
           className="sierra-ave color-white relative d-flex justify-content-center"
           style={{ minHeight: "50vh" }}
