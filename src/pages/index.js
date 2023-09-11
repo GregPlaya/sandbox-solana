@@ -107,7 +107,7 @@ const IndexPage = () => {
           <div className="col-12 col-md-6 d-flex align-items-center justify-content-center">
             <div className="desc-box">
               <div className="short-desc font-com color-blue align-center">
-                Want to <br /> live at Sandbox?
+                Want to  <br /> live at Sandbox?
                 <div className="btn-wrap">
                   <Link
                     to="/residential/"
