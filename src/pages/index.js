@@ -84,7 +84,7 @@ const IndexPage = () => {
             <div className="short-desc font-com color-white align-center">
               A modern reflection of Southern California lifestyle & urban
               sensibility; a beachside playground for culture & commerce,
-              leisure & life.
+              leisure & life..
               <div className="btn-wrap">
                 <a
                   href="https://www.dropbox.com/s/g6mshopn8iaix1k/Sandbox-Leasing-Opportunity-HighRes.pdf?dl=0"
